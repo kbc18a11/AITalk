@@ -81,7 +81,7 @@ JWT_SECRET= php artisan jwt:secretを実行して表示されたトークン
 8. `php artisan serve`を実行
 9. フロントエンドリポジトリからクローンしてください。
 10. `npm install`を実行
-11 . `npm start`を実行
+11. `npm start`を実行
  
   
 ## 実装した機能
