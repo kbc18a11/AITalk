@@ -45,3 +45,7 @@
 - インフラ
   - フロントエンド関係：Netlify
   - バックエンド関係：AWS(Route53，ACM，ALB，EC2(Amazon Linux2))，Jenkins
+  
+- 外部API
+  - S3(ファイルストレージ)
+  - Noby API (会話型AI)
